@@ -9,7 +9,7 @@ Ideal para estudo, referência ou reutilização em projetos.
 - `interfaces/` – Interfaces para objetos e classes
 - `functions/` – Funções utilitárias e exemplos de uso
 
-✅ Exemplos incluídos
+## ✅ Exemplos incluídos
 
 - Tipos literais, union e intersection
 - Interfaces com readonly, optional e extends
