@@ -3,7 +3,7 @@
 Repositório com exemplos práticos de **Types**, **Interfaces** e **Funções** em TypeScript.  
 Ideal para estudo, referência ou reutilização em projetos.
 
-📁 Estrutura
+## 📁 Estrutura
 
 - `types/` – Tipagens simples e compostas
 - `interfaces/` – Interfaces para objetos e classes
@@ -15,6 +15,6 @@ Ideal para estudo, referência ou reutilização em projetos.
 - Interfaces com readonly, optional e extends
 - Funções com tipos genéricos, callbacks e overloads
 
-🧠 Objetivo
+## 🧠 Objetivo
 
 Criar um repositório de aprendizado e referência rápida com padrões e boas práticas em TypeScript.
