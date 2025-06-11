@@ -1,8 +1,20 @@
-Este repositório contém a organização modular de arquivos TypeScript, com foco na separação clara de declarações de tipos (types) e funções (functions).
+# TypeScript Utils
 
-Estrutura atual:
-types/: Definições de tipos e interfaces reutilizáveis
-functions/: Implementações de funções organizadas por responsabilidade
+Repositório com exemplos práticos de **Types**, **Interfaces** e **Funções** em TypeScript.  
+Ideal para estudo, referência ou reutilização em projetos.
 
-📌 Status: Em revisão e documentação
-🛠️ Objetivo: Melhorar legibilidade, reaproveitamento de código e boas práticas com TypeScript
+📁 Estrutura
+
+- `types/` – Tipagens simples e compostas
+- `interfaces/` – Interfaces para objetos e classes
+- `functions/` – Funções utilitárias e exemplos de uso
+
+✅ Exemplos incluídos
+
+- Tipos literais, union e intersection
+- Interfaces com readonly, optional e extends
+- Funções com tipos genéricos, callbacks e overloads
+
+🧠 Objetivo
+
+Criar um repositório de aprendizado e referência rápida com padrões e boas práticas em TypeScript.
